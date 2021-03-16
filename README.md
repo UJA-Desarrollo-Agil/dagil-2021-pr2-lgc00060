@@ -34,3 +34,7 @@ Entró al coche y cogió su movíl para llamar a su padre, pero se llevó la sor
 Desplegando las opciones anteriores del juego, saldrán los pensamientos que tiene Ana para cada una de esas opciones. Todas son peligrosas y arriesgadas, pero finalmente decide quedarse con la opcion de salirse del coche, ponerse a salvo fuera de la carretera, y esperar a que alguien pare o venga a buscarla.
 
 FIN DEL CUENTO.
+
+#URL de mi tablero en Trello
+
+[URL del tablero en trello](https://trello.com/b/0BBZdA5z/comtratiempos)
