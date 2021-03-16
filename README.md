@@ -38,3 +38,13 @@ FIN DEL CUENTO.
 [URL del tablero en trello](https://trello.com/b/0BBZdA5z/comtratiempos)
 
 ![Captura 1](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-lgc00060/blob/master/games/media/img/captura%201.png)
+
+![Captura 2](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-lgc00060/blob/master/games/media/img/captura%201.png)
+
+![Captura 3](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-lgc00060/blob/master/games/media/img/captura%203.png)
+
+![Captura 4](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-lgc00060/blob/master/games/media/img/captura%204.png)
+
+![Captura 5](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-lgc00060/blob/master/games/media/img/captura%205.png)
+
+![Captura 6](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-lgc00060/blob/master/games/media/img/captura%206.png)
