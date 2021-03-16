@@ -41,4 +41,4 @@ FIN DEL CUENTO.
 
 #capturas de pantalla del tablero en Trello
 
-![Captura 1](/Escritorio/captura 1.jpg)
+![Captura 1](/desktop/captura 1.jpg)
