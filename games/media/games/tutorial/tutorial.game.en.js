@@ -97,7 +97,7 @@ esperarasufamilia: new undum.SimpleSituation(
         }
 ),
 cargador: new undum.SimpleSituation(
-        "<p>buscar en el coche a ver si tiene algun cargador para el mechero\
+        "<p>Buscar en el coche a ver si tiene algun cargador para el mechero\
         sería también peligroso permanecer dentro del coche\
         <a href='salirse'>Salirse del coche</a>\
          </p>",
@@ -111,7 +111,7 @@ salirse: new undum.SimpleSituation(
         "<p>Finalmente la ultima opcion es salirse del coche y de la carretera, ponerse en un sitio seguro y esperar a que pase el tiempo y se dé alguna\
         de las opciones anteriores\
          </p>\
-         <h1> Fin </h1>"
+         <h1> Fin del cuento </h1>"
          ,
          {
             heading: "salirse del coche y esperar",
