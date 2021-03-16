@@ -37,4 +37,4 @@ FIN DEL CUENTO.
 
 [URL del tablero en trello](https://trello.com/b/0BBZdA5z/comtratiempos)
 
-![Captura 1](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-lgc00060/blob/master/games/media/img/captura1.png)
+![Captura 1](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-lgc00060/blob/master/games/media/img/captura%201.png)
