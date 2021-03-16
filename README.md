@@ -1,4 +1,4 @@
-# contratiempo
+# Contratiempo
 
 Es un marco de juego construido para una forma sofisticada de ficcíon interactiva.
 
@@ -35,10 +35,6 @@ Desplegando las opciones anteriores del juego, saldrán los pensamientos que tie
 
 FIN DEL CUENTO.
 
-##URL de mi tablero en Trello
-
 [URL del tablero en trello](https://trello.com/b/0BBZdA5z/comtratiempos)
 
-##capturas de pantalla del tablero en Trello
-
-![Captura 1](/games/media/img/captura1.jpg)
+![Captura 1](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-lgc00060/blob/master/games/media/img/captura%201.png)
